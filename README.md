@@ -5,3 +5,5 @@ Ready to use, whitelisted on lenshub mumbai sandbox contract and Deployed At - [
 ## To use test this module locally You must clone the lens-protocol/core repo
 Add The GatedCollect module in core/contracts/core/modules/collect path of the repo <br/>
 Add the .spec.ts file in core/test/modules/collect<br/>
+
+**This module was built as a part of my project submission for the BUIDL2022 Hackathon**
